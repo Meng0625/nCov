@@ -1,0 +1,8 @@
+COMMAND: ../../../source/igphyml/src/igphyml -i ../clustalw/clusterS6_00035.fasta.msa.nt.fa -m GY --threads 4 
+trees: 1
+
+. Calculation of pairwise distances completed in less than 1 sec.
+
+Warning: Number of threads (4) exceeds number of lineages (1).
+........ This will not speed up computations beyond 1 threads.
+Error in Gauss Elimination Scheme.

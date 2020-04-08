@@ -1,0 +1,23 @@
+COMMAND: ../../../source/igphyml/src/igphyml -i ../clustalw/clusterS11_00026.fasta.msa.nt.fa -m GY --threads 4 
+trees: 1
+
+. Calculation of pairwise distances completed in less than 1 sec.
+
+Warning: Number of threads (4) exceeds number of lineages (1).
+........ This will not speed up computations beyond 1 threads.
+
+. Maximizing likelihood (using NNI moves)...
+
+. (    0 sec) [R       -224.5419] [Initial trees and parameters]
+. (    0 sec) [R       -223.6669] [ts/tv ratio        ][0.70 ]
+. (    0 sec) [R       -223.6669] [dn/ds ratio        ][0.21 ]
+. (    2 sec) [R       -213.1391] [ts/tv ratio        ][0.82 ]
+. (    2 sec) [R       -213.1391] [dn/ds ratio        ][0.17 ]
+. (    3 sec) [R       -213.0917] [ts/tv ratio        ][0.81 ]
+. (    3 sec) [R       -213.0917] [dn/ds ratio        ][0.16 ]
+. (    4 sec) [R       -213.0903] [ts/tv ratio        ][0.81 ]
+. (    4 sec) [R       -213.0903] [dn/ds ratio        ][0.16 ]
+. (    5 sec) [R       -213.0903] Final likelihood
+. Time used 0h0m5s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

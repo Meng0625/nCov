@@ -1,0 +1,22 @@
+cluster 37 has IGHG1 IGHM IGHA1 None IGHG2 IGHA2
+cluster 3 has IGHG1 IGHM IGHA1
+cluster 28 has IGHG1 IGHM IGHA1 IGHG2
+cluster 1 has IGHG1 IGHM IGHA1
+cluster 114 has IGHG1 IGHM
+cluster 94 has IGHG2 None IGHG1 IGHM IGHA1 IGHGP
+cluster 27 has IGHM IGHA1 IGHG1
+cluster 6 has IGHA1 IGHG1 IGHG2 IGHM
+cluster 4 has IGHG1 IGHA1 IGHA2 IGHM None
+cluster 156 has IGHG1 IGHM IGHA1 IGHD
+cluster 78 has IGHA1 IGHG1 IGHG2 IGHM
+cluster 198 has IGHG2 IGHM IGHG1 None
+cluster 35 has IGHA2 IGHA1 IGHM IGHG1 None
+cluster 208 has IGHG1 IGHA1 IGHM IGHA2
+cluster 1336 has IGHM IGHG1
+cluster 140 has IGHM IGHA1 IGHG1 None
+cluster 61 has IGHG1 IGHM IGHA1 None
+cluster 104 has IGHM None IGHA1 IGHG3
+cluster 12 has IGHG3 IGHG1 IGHM IGHG4 None
+cluster 3446 has IGHM IGHG1 IGHA1
+cluster 26 has IGHA1 IGHG1 IGHGP None IGHM IGHG3
+cluster 5157 has IGHG1 IGHM

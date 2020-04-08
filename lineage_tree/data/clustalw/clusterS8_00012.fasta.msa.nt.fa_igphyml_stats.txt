@@ -1,0 +1,68 @@
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                      --- IgPhyML 1.1.0 201909.16 ---
+               Kenneth B Hoehn, Gerton Lunter, Oliver G Pybus
+
+
+                         Based off of codonPhyML
+Marcelo S Zanetti, Stefan Zoller, Manuel Gil, Louis du Plessis, Maria Anisimova
+                 http://sourceforge.net/projects/codonphyml/
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                 Summary
+     See doc/IgPhyML_Manual.pdf for further detail on interpreting results
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+. Command: ../../../source/igphyml/src/igphyml -i ../clustalw/clusterS8_00012.fasta.msa.nt.fa -m GY --threads 4 
+. Data sets: 1
+. Model name:	GY+W+K+F
+. Hotspots:	
+. h optimization:	
+. Tree topology search:	NNIs
+. Combined log-likelihood: 	-219.4407
+. Estimated substitutions in repertoire:	23.0558
+. Mean tree length:	0.9222
+. Transition/transversion ratio: 	0.91824
+. Omega 0:	0.2806
+. Nucleotides frequencies: 
+	Position 1:	f(T1)=0.00000000	f(C1)=0.00000000	f(A1)=0.00000000	f(G1)=0.00000000
+	Position 2:	f(T2)=0.00000000	f(C2)=0.00000000	f(A2)=0.00000000	f(G2)=0.00000000
+	Position 3:	f(T3)=0.00000000	f(C3)=0.00000000	f(A3)=0.00000000	f(G3)=0.00000000
+. Codon frequencies
+	f(TTT)=0.015791	f(TTC)=0.020510	f(TTA)=0.005627	f(TTG)=0.017059
+	f(TCT)=0.013945	f(TCC)=0.018113	f(TCA)=0.004970	f(TCG)=0.015065
+	f(TAT)=0.010249	f(TAC)=0.013312	f(TAA)=0.000000	f(TAG)=0.000000
+	f(TGT)=0.014617	f(TGC)=0.018985	f(TGA)=0.000000	f(TGG)=0.015791
+	f(CTT)=0.009719	f(CTC)=0.012624	f(CTA)=0.003464	f(CTG)=0.010500
+	f(CCT)=0.008583	f(CCC)=0.011148	f(CCA)=0.003059	f(CCG)=0.009273
+	f(CAT)=0.006308	f(CAC)=0.008193	f(CAA)=0.002248	f(CAG)=0.006815
+	f(CGT)=0.008997	f(CGC)=0.011685	f(CGA)=0.003206	f(CGG)=0.009719
+	f(ATT)=0.024539	f(ATC)=0.031872	f(ATA)=0.008745	f(ATG)=0.026510
+	f(ACT)=0.021671	f(ACC)=0.028147	f(ACA)=0.007723	f(ACG)=0.023411
+	f(AAT)=0.015927	f(AAC)=0.020686	f(AAA)=0.005676	f(AAG)=0.017206
+	f(AGT)=0.022715	f(AGC)=0.029503	f(AGA)=0.008095	f(AGG)=0.024539
+	f(GTT)=0.028913	f(GTC)=0.037553	f(GTA)=0.010304	f(GTG)=0.031235
+	f(GCT)=0.025534	f(GCC)=0.033164	f(GCA)=0.009099	f(GCG)=0.027585
+	f(GAT)=0.018765	f(GAC)=0.024373	f(GAA)=0.006687	f(GAG)=0.020273
+	f(GGT)=0.026764	f(GGC)=0.034762	f(GGA)=0.009538	f(GGG)=0.028913
+. Time used:	0h0m4s
+. Seconds:	4
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+                                 Submodels
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+Ind	Seq	TreeL	Likelihood	Kappa	Omega0	RootID	Seq_File	Tree_File
+0	13	0.92	-219.44	0.9182	0.2806		../clustalw/clusterS8_00012.fasta.msa.nt.fa	N
+
+
+#	If you use IgPhyML, please cite:
+#	K.B. Hoehn, G Lunter, O.G. Pybus
+#	A phylogenetic codon substitution model for antibody lineages
+#	Genetics. 2017 May; 206(1): 417–427
+#
+#	and
+#
+#	M. Gil, M.S. Zanetti, S. Zoller and M. Anisimova 2013
+#	CodonPhyML: Fast Maximum Likelihood Phylogeny Estimation under Codon Substitution Models
+#	Molecular Biology and Evolution, pages 1270-1280, volume 30, number 6
+#
+#	If you use aBayes branch supports please cite:
+#	M. Anisimova, M. Gil, J.F. Dufayard, C. Dessimoz and O. Gascuel 2011
+#	Survey of branch support methods demonstrates accuracy, power, and robustness of fast likelihood-based approximation schemes. Syst Biol 60:685-699

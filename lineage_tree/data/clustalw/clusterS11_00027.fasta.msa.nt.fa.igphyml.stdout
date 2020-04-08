@@ -1,0 +1,88 @@
+COMMAND: ../../../source/igphyml/src/igphyml -i ../clustalw/clusterS11_00027.fasta.msa.nt.fa -m GY --threads 4 
+trees: 1
+
+. Calculation of pairwise distances completed in 57 sec.
+
+Warning: Number of threads (4) exceeds number of lineages (1).
+........ This will not speed up computations beyond 1 threads.
+
+. Maximizing likelihood (using NNI moves)...
+
+. (    0 sec) [R      -4465.8807] [Initial trees an
+. (  373 sec) [R      -4216.8645] [ts/tv ratio        ][1.07 ]
+. (  373 sec) [R      -4216.8645] [dn/ds ratio        ][0.39 ]
+. (  597 sec
+. (  264 sec) [R      -4216.8645] [ts/tv ratio        ][1.07 ]
+. (  264 sec) [R      -4216.8645] [dn/ds ratio   
+. (  649 sec
+. (  498 sec) [R      -4213.4939] [ts/tv ratio        ][1.07 ]
+. (  498 sec) [R      -4213.4939] [dn/ds ratio        ][0.39 ]
+. (  550 sec) [R      -4212.3376] [ts/tv ratio        ][1.07 ]
+. (  550 sec) [R      -4212.3376] [dn/ds ratio        ][0.39 ]
+. (  681 sec) [R      -4210.5927] [ts/tv ratio        ][1.08 ]
+. (  681 sec) [R      -4210.5927] [dn/ds ratio        ][0.39 ]
+. (  736 sec) [R      -4209.6123] [ts/tv ratio        ][1.08 ]
+. (  736 sec) [R      -4209.6123] [dn/ds ratio        ][0.39 ]
+. (  900 sec) [R      -4206.4075] [ts/tv ratio        ][1.09 ]
+. (  900 sec) [R      -4206.4075] [dn/ds ratio        ][0.39 ]
+. (  948 sec) [R      -4205.5906] [ts/tv ratio        ][1.09 ]
+. (  948 sec) [R      -4205.5906] [dn/ds ratio        ][0.39 ]
+. ( 1003 sec) [R      -4204.8661] [ts/tv ratio        ][1.09 ]
+. ( 1003 sec) [R      -4204.8661] [dn/ds ratio        ][0.38 ]
+. ( 1055 sec) [R      -4204.2843] [ts/tv ratio        ][1.09 ]
+. ( 1055 sec) [R      -4204.2843] [dn/ds ratio        ][0.38 ]
+. ( 1099 sec) [R      -4203.9375] [ts/tv ratio        ][1.10 ]
+. ( 1099 sec) [R      -4203.9375] [dn/ds ratio        ][0.38 ]
+. ( 1141 sec) [R      -4203.6269] [ts/tv ratio        ][1.09 ]
+. ( 1141 sec) [R      -4203.6269] [dn/ds ratio        ][0.38 ]
+. ( 1183 sec) [R      -4203.3234] [ts/tv ratio        ][1.09 ]
+. ( 1183 sec) [R      -4203.3234] [dn/ds ratio        ][0.38 ]
+. ( 1228 sec) [R      -4203.0354] [ts/tv ratio        ][1.10 ]
+. ( 1228 sec) [R      -4203.0354] [dn/ds ratio        ][0.38 ]
+. ( 1315 sec) [R      -4202.7291] [ts/tv ratio        ][1.10 ]
+. ( 1315 sec) [R      -4202.7291] [dn/ds ratio        ][0.38 ]
+. ( 1358 sec) [R      -4202.4737] [ts/tv ratio        ][1.10 ]
+. ( 1358 sec) [R      -4202.4737] [dn/ds ratio        ][0.38 ]
+. ( 1402 sec) [R      -4202.2192] [ts/tv ratio        ][1.09 ]
+. ( 1402 sec) [R      -4202.2192] [dn/ds ratio        ][0.38 ]
+. ( 1446 sec) [R      -4201.9652] [ts/tv ratio        ][1.09 ]
+. ( 1446 sec) [R      -4201.9652] [dn/ds ratio        ][0.38 ]
+. ( 1490 sec) [R      -4201.7141] [ts/tv ratio        ][1.09 ]
+. ( 1490 sec) [R      -4201.7141] [dn/ds ratio        ][0.38 ]
+. ( 1534 sec) [R      -4201.4628] [ts/tv ratio        ][1.09 ]
+. ( 1534 sec) [R      -4201.4628] [dn/ds ratio        ][0.38 ]
+. ( 1577 sec) [R      -4201.2813] [ts/tv ratio        ][1.09 ]
+. ( 1577 sec) [R      -4201.2813] [dn/ds ratio        ][0.38 ]
+. ( 1620 sec) [R      -4201.1131] [ts/tv ratio        ][1.10 ]
+. ( 1620 sec) [R      -4201.1131] [dn/ds ratio        ][0.38 ]
+. ( 1666 sec) [R      -4201.0023] [ts/tv ratio        ][1.10 ]
+. ( 1666 sec) [R      -4201.0023] [dn/ds ratio        ][0.38 ]
+. ( 1710 sec) [R      -4200.9052] [ts/tv ratio        ][1.09 ]
+. ( 1710 sec) [R      -4200.9052] [dn/ds ratio        ][0.38 ]
+. ( 1751 sec) [R      -4200.8147] [ts/tv ratio        ][1.09 ]
+. ( 1751 sec) [R      -4200.8147] [dn/ds ratio        ][0.38 ]
+. ( 1791 sec) [R      -4200.7241] [ts/tv ratio        ][1.09 ]
+. ( 1791 sec) [R      -4200.7241] [dn/ds ratio        ][0.38 ]
+. ( 1829 sec) [R      -4200.6361] [ts/tv ratio        ][1.09 ]
+. ( 1829 sec) [R      -4200.6361] [dn/ds ratio        ][0.38 ]
+. ( 1867 sec) [R      -4200.5510] [ts/tv ratio        ][1.09 ]
+. ( 1867 sec) [R      -4200.5510] [dn/ds ratio        ][0.38 ]
+. ( 1906 sec) [R      -4200.3041] [ts/tv ratio        ][1.09 ]
+. ( 1906 sec) [R      -4200.3041] [dn/ds ratio        ][0.38 ]
+. ( 1946 sec) [R      -4200.2470] [ts/tv ratio        ][1.09 ]
+. ( 1946 sec) [R      -4200.2470] [dn/ds ratio        ][0.38 ]
+. ( 1990 sec) [R      -4200.1953] [ts/tv ratio        ][1.09 ]
+. ( 1990 sec) [R      -4200.1953] [dn/ds ratio        ][0.38 ]
+. ( 2028 sec) [R      -4200.1819] [ts/tv ratio        ][1.09 ]
+. ( 2028 sec) [R      -4200.1819] [dn/ds ratio        ][0.38 ]
+. ( 2068 sec) [R      -4200.1808] [ts/tv ratio        ][1.09 ]
+. ( 2068 sec) [R      -4200.1808] [dn/ds ratio   
+. ( 2438 sec
+. ( 2206 sec) [R      -4200.1078] [ts/tv ratio        ][1.09 ]
+. ( 2206 sec) [R      -4200.1078] [dn/ds ratio        ][0.38 ]
+. ( 2288 sec) [R      -4200.1030] [ts/tv ratio        ][1.09 ]
+. ( 2288 sec) [R      -4200.1030] [dn/ds ratio        ][0.38 ]
+. ( 2345 sec) [R      -4200.1025] Final likelihood
+. Time used 0h39m27s
+
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo

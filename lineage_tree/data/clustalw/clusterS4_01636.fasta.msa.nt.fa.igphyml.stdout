@@ -1,0 +1,5 @@
+COMMAND: ../../../source/igphyml/src/igphyml -i ../clustalw/clusterS4_01636.fasta.msa.nt.fa -m GY --threads 4 
+trees: 1
+Need at least 3 sequences to analyze
+
+. Calculation of pairwise distances completed in less than 1 sec.
