@@ -6,4 +6,4 @@ You can find all code and figures available in the each part of analysis here. F
 
 <img  src="./github.png" width="500" height="400" >
 
-A structure schematic diagram of TCR and SARS-CoV-2 binding. 
+A structure schematic diagram of BCR and SARS-CoV-2 binding. 
